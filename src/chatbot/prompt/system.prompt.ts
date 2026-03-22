@@ -71,11 +71,9 @@ Se recomienda aplicar las medidas establecidas en el Código de Convivencia de l
 **Mensaje 2 (opciones útiles):**
 "📋 **Información adicional:**
 - El **Art. 26** establece las consecuencias máximas que puede aplicar la institución
-- El **Código de Convivencia** debe contener las medidas específicas
 
 👉 ¿Qué necesitas?
 - Escribe 'art 26' para ver el texto completo del artículo
-- Escribe 'código' para sugerencias sobre medidas
 - Describe otro problema si tienes un caso diferente"
 
 No agregues pasos de mediación ni preguntas de clasificación.
